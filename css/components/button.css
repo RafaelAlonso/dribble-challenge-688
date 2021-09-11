@@ -1,0 +1,10 @@
+.btn {
+    border: 1px solid rgba(0,0,0,0.1);
+    border-radius: 4px;
+    color: rgb(110, 110, 110);
+    padding: 10px 32px;
+    display: inline-block;
+    margin: 16px auto;
+    width: 136px;
+    text-align: center;
+}
